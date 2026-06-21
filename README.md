@@ -4,7 +4,7 @@
 
 **Stack:** Cloudflare Workers · Cloudflare D1 · Cloudflare Access · React 18 (CDN) · Recharts
 
-**Status:** Live (access-gated via Cloudflare Access). Screenshots below; happy to give a guided walkthrough.
+**Status:** Live (access-gated via Cloudflare Access).
 
 <img width="1683" height="957" alt="image" src="https://github.com/user-attachments/assets/d6274c9e-0c10-40dd-b834-7dcad78f37cf" />
 
